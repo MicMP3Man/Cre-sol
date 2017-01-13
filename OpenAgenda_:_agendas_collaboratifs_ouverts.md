@@ -20,7 +20,6 @@ Des options de recherches, par lieux, dates ou mots-clefs, permettent de trouver
 
 ## Exemples tourangeaux
 
-- [Agenda de la Transition](http://openagenda.com/transition-touraine#sClient=), Agenda de la Transition en Touraine
 - [ToursTech](http://openagenda.com/tourstech), Agenda officiel de la #FrenchTech Tours
 - [CoopAxis](http://openagenda.com/coopaxis), Le Numérique à Tours au service de l'innovation sociale
 - [Économie Solidaire Centre](http://openagenda.com/economie-solidaire-centre), Événements relatifs à l’Économie Solidaire en région Centre.
@@ -65,7 +64,7 @@ Le formulaire de l'événement s'ouvre et vous pouvez modifier les champs à vot
 
 ## Créer un compte Open Agenda
 
-En attendant du contenu texte, [une petite vidéo explicative](https://www.youtube.com/watch?v=s8m2XYBI958) !
+En attendant du contenu texte, [une petite vidéo explicative](https://www.youtube.com/watch?v=ePYKhmwa4_s) !
 
 ## Revendiquer
 
